@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "name": "express-2",
+  "description": "An express application generator app (Node.js)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzkxaa/express-2-wn21.git"
+  },
+  "author": "Rizkika Ramadhanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzkxaa/express-2-wn21/issues"
+  },
+  "homepage": "https://github.com/rzkxaa/express-2-wn21#readme"
+}
